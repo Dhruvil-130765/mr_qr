@@ -8,7 +8,7 @@ requireLogin();
 
 $user        = getCurrentUser();
 $stats       = getUserStats($user['id']);
-$recentCodes = getUserQRCodes($user['id'], 8);
+$recentCodes = getUserQRCodes($user['id'], 8); 
 $types       = getQRTypes();
 
 // ── Now safe to output HTML ────────────────────────────────────────────────────
