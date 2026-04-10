@@ -9,7 +9,7 @@ requireLogin();
 $types = getQRTypes();
 
 // ── Now safe to output HTML ────────────────────────────────────────────────────
-$pageTitle = 'Bulk QR Generator';
+$pageTitle = 'Bulk QR Generator';   
 require_once __DIR__ . '/includes/header.php';
 ?>
 
