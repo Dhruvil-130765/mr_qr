@@ -8,7 +8,7 @@ $types = getQRTypes();
     <div class="absolute top-24 left-10 w-20 h-20 rounded-2xl bg-brand-200/30 rotate-12 animate-float" style="animation-delay:0s"></div>
     <div class="absolute top-40 right-20 w-14 h-14 rounded-full bg-lilac-200/30 animate-float" style="animation-delay:1s"></div>
     <div class="absolute bottom-32 left-1/4 w-16 h-16 rounded-xl bg-sky-200/30 -rotate-12 animate-float" style="animation-delay:2s"></div>
-    <div class="absolute top-60 right-1/3 w-10 h-10 rounded-lg bg-peach-200/30 rotate-45 animate-float" style="animation-delay:0.5s"></div>
+    <div class="absolute top-60 right-1/3 w-10 h-10 rounded-lg bg-peach-200/30    rotate-45 animate-float" style="animation-delay:0.5s"></div>
     
     <div class="max-w-7xl mx-auto px-4 sm:px-6 py-20 md:py-32 relative z-10">
         <div class="text-center max-w-4xl mx-auto">
